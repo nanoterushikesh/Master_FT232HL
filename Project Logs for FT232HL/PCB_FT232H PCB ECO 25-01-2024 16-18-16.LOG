@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=C2-2
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-8
+Added Component: Designator=L2(ferrite bead 600R 0.5A)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UPZ2012E601-2R0TF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCCD Pin=L2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=L2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-8
+Added Net: Name=NetC2_2

@@ -1,0 +1,4 @@
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC0402"; UniqueID = "\BOPKMRLA" ("\BOPKMRLA")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"

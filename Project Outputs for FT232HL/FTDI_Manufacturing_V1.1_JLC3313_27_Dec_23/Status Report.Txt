@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_FT232H.PcbDoc]
+   Generated File[FT232HL-RoundHoles.TXT]
+   Generated File[FT232HL-SlotHoles.TXT]
+   Generated File[FT232HL.LDP]
+   Generated File[FT232HL.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:08:31 On 03-02-2024
